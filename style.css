@@ -1,0 +1,35 @@
+h1 {
+	color: #ff33cc;
+	font-family: "Arial", sans-serif;
+	font-size: 4em;
+}
+
+p {
+	color: #ffff66;
+	background-color: #33ff66;
+}
+
+h2, h4 {
+	color: 	#3366ff;
+}
+
+a{
+	color: #33ff66;
+}
+
+li {
+	color: #ff0033;
+}
+
+.foodz-to-come {
+	color: 	#ff33cc;
+
+}
+
+.foodz-gone {
+	color: 	#33ff66;
+}
+
+#lunch {
+	font-size: 2em
+}
