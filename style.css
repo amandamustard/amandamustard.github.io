@@ -102,15 +102,21 @@ img.displayed {
 
 .float-left {
 	float: left;
-	width: 50%;
+	width: 300px;
 }
 
 .float-right {
-	float: left;
-	width: 50%;
+	float: right;
+	width: 300px;
 }
 
 #clear-float {
 	clear: right
 }
+
+a:link    { color: #00b9f1; } /* unvisited link */
+a:visited { color: #f9c00c; } /* visited link */
+a:hover   { color: #7200da; } /* mouse over link */
+a:active  { color: #f9320c; } /* selected link */
+
 
